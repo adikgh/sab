@@ -1,0 +1,1 @@
+<?php if (isset($_GET[c])) header('location: /cours/?id='.$_GET[c].'&log=true'); ?>
